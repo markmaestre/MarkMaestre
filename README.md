@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Mark+Maestre;IT+Student+%F0%9F%93%9A;Let's+Code+and+Create+Together!" alt="Typing SVG" />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/markmaestre/markmaestre/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 <!-- Coding GIF -->
 <p align="center">
