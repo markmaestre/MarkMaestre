@@ -96,6 +96,50 @@ I'm an IT student at **Technological University of the Philippines – Taguig Ci
 
 ---
 
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+### 🏆 Professional Certifications
+<br>
+
+<!-- Replace these with your actual certificate badges -->
+[![Google IT Support](https://img.shields.io/badge/Google-IT_Support_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-it-support)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
+<br>
+
+### 📚 Course Certificates
+<br>
+
+<!-- Add your actual course certificates here -->
+| Platform | Course | Status |
+|----------|--------|--------|
+| **Coursera** | Google IT Support Professional Certificate | ✅ Completed |
+| **freeCodeCamp** | Responsive Web Design | ✅ Completed |
+| **Udemy** | The Complete Web Development Bootcamp | ✅ Completed |
+| **LinkedIn Learning** | Programming Foundations | ✅ Completed |
+
+<br>
+
+### 🎖️ Badges & Accomplishments
+<br>
+
+<!-- Add your actual badges here -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-2E86C1?style=for-the-badge)
+![Code Review](https://img.shields.io/badge/Code-Review_Expert-27AE60?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-8E44AD?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem-Solving_Advanced-E74C3C?style=for-the-badge)
+
+</div>
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -105,6 +149,7 @@ I'm an IT student at **Technological University of the Philippines – Taguig Ci
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/the.mark.macmaestre26/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maestreeeeee/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markmaestre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 <br>
 </div>
