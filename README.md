@@ -75,6 +75,7 @@ I'm an IT student at **Technological University of the Philippines – Taguig Ci
 
 <div align="center">
 
+### 📈 GitHub Stats
 <table>
   <tr>
     <td align="center">
@@ -85,6 +86,12 @@ I'm an IT student at **Technological University of the Philippines – Taguig Ci
     </td>
   </tr>
 </table>
+
+### 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=markmaestre&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=markmaestre&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
