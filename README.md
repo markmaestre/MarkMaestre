@@ -23,6 +23,16 @@
 
 <br/>
 
+## 🎮 Pacman Game
+
+<div align="center">
+  
+![Pacman Game](https://raw.githubusercontent.com/CorruptedArk/CorruptedArk/main/pacman.gif)
+
+</div>
+
+<br/>
+
 ## 🛠️ Technical Stack
 
 <div align="center">
@@ -89,6 +99,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=markmaestre&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
+## 💼 Featured Projects
+
+<div align="center">
+  
+<a href="https://github.com/markmaestre/MERNApp-Project">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markmaestre&repo=MERNApp-Project&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000" />
+</a>
+<a href="https://github.com/markmaestre/Laravel-Javascript-System">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markmaestre&repo=Laravel-Javascript-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000" />
+</a>
+
+</div>
 
 ## 📈 Contribution Graph
 
@@ -105,6 +127,18 @@
 <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Cloud_Computing-FFA500?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/DevOps-00BFFF?style=for-the-badge&logo=gitlab&logoColor=white">
+
+<br>
+</div>
+
+## 🎮 Fun Facts
+
+<div align="center">
+<br>
+
+<img src="https://img.shields.io/badge/Pacman%20Fan-FF0000?style=for-the-badge&logo=game&logoColor=white">
+<img src="https://img.shields.io/badge/Gaming%20Enthusiast-00FF00?style=for-the-badge&logo=steam&logoColor=white">
+<img src="https://img.shields.io/badge/Tech%20Lover-0000FF?style=for-the-badge&logo=linux&logoColor=white">
 
 <br>
 </div>
@@ -133,6 +167,10 @@
 <br>
 
 ### 🚀 *"The computer was born to solve problems that did not exist before." - Bill Gates*
+
+<br>
+
+### 🎮 *"Waka Waka Waka!" - Pacman*
 
 <br>
 
