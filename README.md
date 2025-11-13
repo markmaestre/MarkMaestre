@@ -1,30 +1,27 @@
 <div align="center">
-
-# Mark Maestre
-### Information Technology Student | Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86C1&center=true&width=500&lines=Hello+World!+👋;Information+Technology+Student;Full-Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-
-<br>
-
-<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="380" alt="Coding">
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mark%20Ranier%20Maestre&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" />
 </div>
 
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Full+Stack+Developer;Passionate+about+Innovation" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=markmaestre&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/markmaestre?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
+</div>
 
-I'm an IT student at **Technological University of the Philippines – Taguig City** passionate about web development and creating innovative solutions. I enjoy learning new technologies and building projects that solve real-world problems.
+<br/>
 
-- 🌱 **Currently learning:** TypeScript & React Native
-- 💡 **Interests:** AI, Mobile Development, Cloud Computing
-- 🎯 **Goal:** Become a proficient full-stack developer
-- 📫 **Email:** markraniermaestre@gmail.com
+<div align="center">
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="380" alt="Coding">
+</div>
 
----
+<br/>
 
 ## 🛠️ Technical Stack
 
@@ -70,31 +67,41 @@ I'm an IT student at **Technological University of the Philippines – Taguig Ci
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=markmaestre&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F5&icon_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" alt="Mark's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmaestre&layout=compact&hide_border=true&title_color=6AD3F5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
 
-### GitHub Statistics
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=markmaestre&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmaestre&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5" alt="GitHub Streak" />
+</div>
 
-<br>
-<br>
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmaestre&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=markmaestre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-<br>
-<br>
+## 💼 Featured Projects
 
-### GitHub Trophies
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=markmaestre&theme=onedark&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=2&column=4" width="100%" alt="GitHub Trophies">
+<div align="center">
+  
+<a href="https://github.com/markmaestre/MERNApp-Project">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markmaestre&repo=MERNApp-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/markmaestre/Laravel-Javascript-System">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markmaestre&repo=Laravel-Javascript-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 </div>
 
----
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markmaestre&bg_color=0d1117&color=6AD3F5&line=6AD3F5&point=fff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ## 📫 Connect With Me
 
@@ -120,4 +127,8 @@ I'm an IT student at **Technological University of the Philippines – Taguig Ci
 
 ⭐️ From [markmaestre](https://github.com/markmaestre)
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
