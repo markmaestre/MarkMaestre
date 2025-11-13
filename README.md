@@ -1,10 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5,7,9&height=200&section=header&text=Mark%20Ranier%20Maestre&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ff0000&desc=IT%20Student%20|%20Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Mark%20Ranier%20Maestre&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=IT%20Student%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning%20&descAlignY=55&descSize=18&descColor=ffffff" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Full+Stack+Developer;Passionate+about+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mark+Ranier+Maestre;4th+Year+IT+Student+at;Technological+University+of+the+Philippines;" alt="Typing SVG" />
+
   </a>
 </div>
 
@@ -23,11 +24,11 @@
 
 <br/>
 
-## 🎮 Pacman Game
+
 
 <div align="center">
   
-![Pacman Game](https://raw.githubusercontent.com/CorruptedArk/CorruptedArk/main/pacman.gif)
+![Pacman Game](https://raw.githubusercontent.com/markmaestre/output/main/pacman-contribution-graph.svg)
 
 </div>
 
@@ -99,16 +100,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=markmaestre&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 💼 Featured Projects
 
-<div align="center">
-  
-<a href="https://github.com/markmaestre/MERNApp-Project">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markmaestre&repo=MERNApp-Project&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000" />
-</a>
-<a href="https://github.com/markmaestre/Laravel-Javascript-System">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=markmaestre&repo=Laravel-Javascript-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000" />
-</a>
 
 </div>
 
@@ -127,18 +119,6 @@
 <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Cloud_Computing-FFA500?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/DevOps-00BFFF?style=for-the-badge&logo=gitlab&logoColor=white">
-
-<br>
-</div>
-
-## 🎮 Fun Facts
-
-<div align="center">
-<br>
-
-<img src="https://img.shields.io/badge/Pacman%20Fan-FF0000?style=for-the-badge&logo=game&logoColor=white">
-<img src="https://img.shields.io/badge/Gaming%20Enthusiast-00FF00?style=for-the-badge&logo=steam&logoColor=white">
-<img src="https://img.shields.io/badge/Tech%20Lover-0000FF?style=for-the-badge&logo=linux&logoColor=white">
 
 <br>
 </div>
@@ -162,15 +142,8 @@
 <div align="center">
 <br>
 
-### 💫 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+### "Nasan aking salamin"
 
-<br>
-
-### 🚀 *"The computer was born to solve problems that did not exist before." - Bill Gates*
-
-<br>
-
-### 🎮 *"Waka Waka Waka!" - Pacman*
 
 <br>
 
