@@ -142,8 +142,6 @@
 
 <br>
 
-⭐️ From [markmaestre](https://github.com/markmaestre)
-
 <br/>
 
 <div align="center">
