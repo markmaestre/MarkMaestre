@@ -26,11 +26,6 @@
 
 
 
-<div align="center">
-  
-![Pacman Game](https://raw.githubusercontent.com/markmaestre/output/main/pacman-contribution-graph.svg)
-
-</div>
 
 <br/>
 
