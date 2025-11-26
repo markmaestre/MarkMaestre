@@ -137,8 +137,7 @@
 <div align="center">
 <br>
 
-### "Nasan aking salamin?"
-  - MAESTRE
+### "Nasan aking salamin?" - MAESTRE
 
 
 
