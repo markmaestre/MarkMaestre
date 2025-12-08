@@ -29,7 +29,7 @@
 
 <br/>
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
