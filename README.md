@@ -72,23 +72,6 @@
 
 </div>
 
-## GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=markmaestre&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmaestre&layout=compact&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmaestre&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=markmaestre&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
 ## Contribution Graph
 
 <div align="center">
